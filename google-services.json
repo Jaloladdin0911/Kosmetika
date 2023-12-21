@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225662852590",
+    "firebase_url": "https://myshopappbase-default-rtdb.firebaseio.com",
+    "project_id": "myshopappbase",
+    "storage_bucket": "myshopappbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225662852590:android:d19916a81be3c8586802ff",
+        "android_client_info": {
+          "package_name": "com.example.qwerty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVQva3Yebp4btlB8-o7B8r4uBdZ-g6y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
